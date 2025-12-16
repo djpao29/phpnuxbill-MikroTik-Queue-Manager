@@ -9,7 +9,7 @@
                         <span class="glyphicon glyphicon-question-sign"></span> Ayuda MikroTik
                     </a>
                 </div>
-                MikroTik Simple Queue Manager - Configuración
+                MikroTik Simple Queue Manager - Configuracion
             </div>
             <div class="panel-body">
                 
@@ -228,5 +228,6 @@
         </div>
     </div>
 </div>
+
 
 {include file="sections/footer.tpl"}
